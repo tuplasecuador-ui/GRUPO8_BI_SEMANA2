@@ -1,0 +1,20 @@
+{
+  "generado_por": "Grupo8_BI_app_logiandes.ipynb",
+  "filas": 5798,
+  "sla_por_canal": {
+    "Express": 120,
+    "Estándar urbano": 180,
+    "Programado": 240
+  },
+  "kpis": {
+    "pedidos": 5798.0,
+    "cumplimiento_sla": 0.85633,
+    "tasa_reclamos": 0.032253,
+    "ventas_totales": 142542.73,
+    "ventas_por_dia": 1583.808111,
+    "ticket_promedio": 24.58481,
+    "p90_entrega": 189.53,
+    "tiempo_atencion": 7.957537,
+    "ventas_expuestas": 0.153861
+  }
+}
